@@ -1,0 +1,1 @@
+![Микросервисная архитектура](https://spring.io/img/extra/microservices-6.svg)
